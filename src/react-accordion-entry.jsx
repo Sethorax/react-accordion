@@ -28,7 +28,7 @@ class ReactAccordionEntry extends React.Component {
 ReactAccordionEntry.propTypes = {
 	index: PropTypes.number.isRequired,
 	entry: PropTypes.object.isRequired,
-	animation: PropTypes.string.isRequired,
+	animation: PropTypes.number.isRequired,
 	toggleHandler: PropTypes.func.isRequired
 };
 

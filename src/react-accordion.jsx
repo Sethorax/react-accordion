@@ -109,7 +109,7 @@ class ReactAccordion extends React.Component {
 ReactAccordion.propTypes = {
 	multiple: PropTypes.bool,
 	collapsible: PropTypes.bool,
-	animation: PropTypes.string,
+	animation: PropTypes.number,
 	data: PropTypes.arrayOf(propValue => {
 		if (!Array.isArray(propValue)) {
 			return new Error('Prop data must be of type array!');
@@ -126,7 +126,7 @@ ReactAccordion.propTypes = {
 ReactAccordion.defaultProps = {
 	multiple: false,
 	collapsible: true,
-	animation: '300',
+	animation: 300,
 	data: []
 };
 

@@ -1,6 +1,6 @@
 {
   "name": "@sethorax/react-accordion",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple accordion react component.",
   "main": "dist/react-accordion.js",
   "author": "Sethorax <info@sethorax.com>",
@@ -19,8 +19,7 @@
     "classnames": "^2.2.5",
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "react-html-converter": "^0.1.1"
+    "react-dom": "^15.6.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
