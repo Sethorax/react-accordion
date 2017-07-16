@@ -1,0 +1,20 @@
+
+node_modules
+npm-debug.log
+
+yarn.lock
+package-lock.json
+
+# Editor and other tmp files
+*.swp
+*.un~
+*.iml
+*.ipr
+*.iws
+*.sublime-*
+.idea/
+*.DS_Store
+*.vscode
+
+# Build directories (Will be preserved by npm)
+dist

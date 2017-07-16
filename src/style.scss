@@ -1,0 +1,6 @@
+.react-accordion {
+    .accordion-entry {margin-bottom: 15px;}
+    .accordion-title {padding: 15px; background: gray; cursor: pointer;}
+    .accordion-content {max-height: 0; overflow: hidden; transition-property: all; transition-timing-function: ease-in-out;}
+    .accordion-content-padding {padding: 15px; background: lightgray;}
+}
