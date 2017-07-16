@@ -1,4 +1,4 @@
-# React Accordion
+# React Accordion [![npm version](https://badge.fury.io/js/%40sethorax%2Freact-accordion.svg)](https://badge.fury.io/js/%40sethorax%2Freact-accordion)
 
 A simple React accordion component.
 
