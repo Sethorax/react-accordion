@@ -2,6 +2,16 @@
 
 A simple React accordion component.
 
+## Installation
+
+You can easily install this package via **npm**:
+
+`npm install --save @sethorax/react-accordion`
+
+or **yarn**:
+
+`yarn add @sethorax/react-accordion`
+
 ## Example
 
 ```js
